@@ -1,0 +1,6 @@
+AB12CD34EF ; 12.345 ; Monitor_27 ; 1234.50 ; 0.000 ; 1
+ZXCVBNM987 ; 1.000 ; Mouse-Pro ; 10.5 ; 0.000 ; 2
+HELLO20255 ; 0.123 ; Lamp-Led_White ; 5.45 ; 0.000 ; 4
+ABCD123456 ; 1.000 ; Router_XT1000 ; 250.00 ; 0.000 ; 5
+AAAAAA1111 ; 5.000 ; KeyboardPro ; 500.00 ; 0.000 ; 6
+BBBBBB2222 ; 12.000 ; PhoneCase_5 ; 100.00 ; 0.000 ; 7
